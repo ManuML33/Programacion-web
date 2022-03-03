@@ -1,0 +1,58 @@
+#idVideo
+{
+    width: "350";
+    height: "350";
+}
+
+#video
+{
+    margin-top: 100px;
+    width: "350";
+    height: "350";
+    display: flex;
+    flex-direction: column;
+}
+.contactenos
+{
+    width: 220px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+}
+
+#idContactenos
+{
+    text-align: center;
+}
+
+.titulo{
+    position: fixed;
+    background: #fff;
+    width: 98%;
+    margin-top: -90px;
+    background-color: #c2ebca;
+    border: 2px solid #000;
+}
+
+
+body{
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: #ee8fab;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+
+p{
+    margin-top: 20px;
+    padding: 48px 25px;
+    font-size: 25px;
+}
+
+img{
+    border-right: 2px solid #000;
+}
